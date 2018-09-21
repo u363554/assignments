@@ -14,3 +14,7 @@ my assignments
 [python assignment](https://github.com/u363554/assignments/blob/master/exam_june_7_2018%20(1).ipynb)
 
 [r assignemtn](https://github.com/u363554/assignments/blob/master/Exam_student%20(1).ipynb)
+
+[exam_2_student](https://github.com/u363554/assignments/blob/master/exam_2_student.ipynb)
+
+[exam_sep_21](https://github.com/u363554/assignments/blob/master/exam_Sep_21_2018.ipynb)
